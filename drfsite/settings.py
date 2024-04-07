@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
 
     "women",
+    
     "rest_framework",
     "rest_framework.authtoken",
     "djoser",

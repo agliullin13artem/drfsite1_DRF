@@ -23,13 +23,6 @@ class WomenSerializer(serializers.ModelSerializer):
 
 
 
-
-
-
-
-
-
-
     # title = serializers.CharField(max_length=255)
     # content = serializers.CharField()
     # time_create = serializers.DateTimeField(read_only=True)
